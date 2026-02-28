@@ -1,1 +1,1 @@
-# DevOps Mastery Notes 🚀
+# DevOps Mastery Notes 
