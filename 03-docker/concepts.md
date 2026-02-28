@@ -22,4 +22,6 @@
 | Server-dependent   | Portable          |
 
 ### Containers and Virtual Machines 
-### Compare and highlight the difference between using containers and VMs for running workloads
+### Compare and highlight the difference between using containers and VMs for running workloads.
+### Discuss the different components form Docker system.
+### Understand how these components interact when running common operations in Docker.
